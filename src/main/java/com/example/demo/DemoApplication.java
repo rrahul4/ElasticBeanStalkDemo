@@ -16,7 +16,7 @@ public class DemoApplication {
 
 	@GetMapping("/")
 	public String helloWorld() {
-		return "Hello AWS World V4";
+		return "Hello Elastic BeanStalk - Service Updated!!";
 	}	
 
 }
